@@ -1,0 +1,33 @@
+@media all and (max-device-width:480px){
+  hr {
+    display: none;
+  }
+}
+#carre {
+  background: gray;
+  width:100%;
+  height:100px;
+}
+h1 {
+  text-align: center;
+  color: teal;
+  color: silver;
+}
+#para1 {
+  font-size: x-large;
+  text-align: center;
+}
+.cadre {
+  border: 2px teal solid;
+  padding: 4px;
+  width: 95%;
+}
+.color {
+  width: 100%;
+  height: 35px;
+  background: gray;
+  text-align: center;
+}
+.texte {
+  text-align: justify;
+}
